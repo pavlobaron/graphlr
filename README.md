@@ -17,7 +17,7 @@ That way, one can easily jump into the AST without
 having to recursively traverse it. Just use Cypher to
 find the relevant nodes and to procede from there.
 
-GraphlerTest.java contains some examples. This is
+GraphlrTest.java contains some examples. This is
 a very pre-alpha bloody state. I still need to create
 more nodes, relationship. And right now, I'm bad
 in building a stack while parsing, so I exactly know
